@@ -85,4 +85,3 @@ Task 6: Implement logic to print all bids
 Task 7: Implement logic to remove a bid
 
 Task 8: Implement logic to search for and return a bid
-![image](https://github.com/dpoloniajr/CS-260-Algorithm-and-Data-Structures/assets/79429457/5ce97180-7f1c-4441-a945-9ff470664548)
