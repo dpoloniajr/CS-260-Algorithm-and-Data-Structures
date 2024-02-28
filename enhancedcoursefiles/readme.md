@@ -1,11 +1,10 @@
 # Category 2: Algorithms and Data Structures
 
+The artifact select for the enhancement in the algorithms and data structures category is the Hash Table C++ file for the Bid ID Search Structure assignment in the Data Structures and Algorithms course (CS260). The artifact was originally created in December 2020, consisting of data from CSV files, two C++ files, a C++ header file, and a selection of debug files. The purpose of the assignment was to explore hashing algorithms by implementing a hash with chaining of collisions for bids loaded from a CSV file. Once the C++ project was created and the appropriate compiler was chosen, the storage structure needed to be defined. The options were between an array or a vector for the storage.!
 
-The artifact selected for enhancement in database is the CrudModule class file, part of the Grazioso Salvare Project in the Advanced Programming Concepts course (CS340). The artifact, developed using Python, was originally created in December 2022, for the purpose of authenticating access to the database and implementing the CRUD (create, read, update, and delete) functionality for the database. The project consisted of the import of the mongoimport tool for accessing the database, the creation of an administrator and user account, a PY file, using object-oriented programming methodology, to enable the CRUD functionality, and a Python module to test and ensure each account type could be accessed and each part of the CRUD module operated properly. 
 
-
-### The Task and Task Service class files were selected to demonstrate the following: 
-#### 1.	Employment strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science by:
+### The Hashtable.cpp class file was selected to demonstrate the following: 
+#### 1. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by:
 a.	Using a test instance for privacy and data protection
 b.	Using a test instance to simulate cyber attacks
 c.	Using a test instance for learning and innovation
