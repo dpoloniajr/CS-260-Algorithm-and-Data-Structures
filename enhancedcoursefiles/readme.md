@@ -4,25 +4,24 @@ The artifact select for the enhancement in the algorithms and data structures ca
 
 
 ### The Hashtable.cpp class file was selected to demonstrate the following: 
-#### 1. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by: 
-1. mplementing a balanced binary tree structure to enable efficient ordered data storage and retrieval.
-b.	Developing insertion algorithms that maintain the balance of the tree, ensuring the time it takes to complete the operation increases logarithmically in relation to the size of the input data.
-c.	Creating a range query method that efficiently finds all bids within a given range, leveraging the ordered nature of the tree.
+#### Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by: 
 
-#### 2.	The development of a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by:
-a.	Promoting secure development lifecycle practices
-b.	Enforcing the principle of least privilege
-c.	Facilitating test environments for security audits and penetration testing
+1. Implementing a balanced binary tree structure to enable efficient ordered data storage and retrieval.
+2. Developing insertion algorithms that maintain the balance of the tree, ensuring the time it takes to complete the operation increases logarithmically in relation to the size of the input data.
+3.	Creating a range query method that efficiently finds all bids within a given range, leveraging the ordered nature of the tree.
 
-#### The enhancements made to implement a test configuration and test instance in the CRUD Python Script, along with its corresponding Dashboard class file and test script, demonstrate a variety of skills and abilities to databases such as:
-1.	Database management by creating database schemas for different environments and designing test data that reflects production data structures without using real data.
-2.	Database system design by creating a modular design that allows switching between different configurations, in this case a test configuration and instance.
-3.	Database collaboration by documenting code files in a way to allow for cross-functional team collaboration for development, security, and operations.
+#### Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms) by: 
+
+1.	Enhancing the data structure from a simple hash table to a balanced binary tree, such as an AVL tree, to manage algorithmic complexity and improve performance scalability. 
+2.	Ensuring data integrity and security by implementing a binary tree structure that adheres to industry standards and practices.
+3.	Transition the underlying data structure to a balanced binary tree to evaluate and optimize the trade-offs between data retrieval latency and structure organization.
+
+
+#### The enhancements made to transition the existing program to balanced search tree (BST), with insertion and a range query method, demonstrates a variety of skills and abilities to databases such as:
+1.	Understanding of data structures by showing a deep understanding of different data structures and their respective advantages and disadvantages. This is critical in database design, where the choice of data structure can significantly affect performance and storage efficiency.
+2.	Algorithmic complexity management in the ‘0(log n)’ complexity, used for insertion, deletion, and search operations. Understanding and managing this complexity is necessary to ensure the performance of database operations, especially when dealing with large datasets.
+3.	Performance optimization through an optimized query performance. Balanced BSTs can enhance search performance over hash tables when it comes to range queries or ordered data retrieval, which are common in databases.
+
    
 #### Enhancements to the artifact include the following: 
-1.	Incorporating a test mode configuration parameter within the AnimalShelter Python file, which runs the instance in test mode if test mode = true.
-2.	Importing the use of Mongomock in the CrudModule class file, which is used to for in-memory database access in testing environments.
-3.	 Incorporating test credentials for database access authentication.
-4.	Separate test scripts for testing in production and development environments.
-5.	The replacement of the printing statement for logging, which is a more suitable solution for the use of development and production environments, making outputs cleaner.
-6.	The replacement of block exceptions with catch specific exceptions, which helps with debugging by providing more information on errors as they arise.
+1.	TBD
