@@ -4,10 +4,10 @@ The artifact select for the enhancement in the algorithms and data structures ca
 
 
 ### The Hashtable.cpp class file was selected to demonstrate the following: 
-#### 1. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by:
-a.	Using a test instance for privacy and data protection
-b.	Using a test instance to simulate cyber attacks
-c.	Using a test instance for learning and innovation
+#### 1. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts by: 
+1. mplementing a balanced binary tree structure to enable efficient ordered data storage and retrieval.
+b.	Developing insertion algorithms that maintain the balance of the tree, ensuring the time it takes to complete the operation increases logarithmically in relation to the size of the input data.
+c.	Creating a range query method that efficiently finds all bids within a given range, leveraging the ordered nature of the tree.
 
 #### 2.	The development of a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources by:
 a.	Promoting secure development lifecycle practices
