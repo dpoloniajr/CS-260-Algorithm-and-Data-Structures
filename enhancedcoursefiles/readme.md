@@ -24,4 +24,9 @@ The artifact select for the enhancement in the algorithms and data structures ca
 
    
 #### Enhancements to the artifact include the following: 
-1.	TBD
+1.	Created the header declaration for the binary tree C++ file with the binary tree file name.
+2.	Created a node structure and defined the class that includes the key, value, and pointers.
+3.	Implemented the necessary operations for the balanced binary tree, including insertions, deletions, balancing logic, and range query.
+4.	Created the main function section with a display, load, and strDouble function.
+5.	Implemented static methods for testing.
+6.	Created a header declaration for the CSVparser.cpp file.
